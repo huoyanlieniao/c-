@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570098043 source:f:\文件\专业课\c++\c++排序\生成随机\main.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	<vector>
+	<math.h>
+	<windows.h>
+	<ctime>
+

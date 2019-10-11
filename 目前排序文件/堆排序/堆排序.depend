@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1570098663 source:f:\文件\专业课\c++\c++排序\堆排序\main.cpp
+	<algorithm>
+	<functional>
+	<vector>
+	<iostream>
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<time.h>
+

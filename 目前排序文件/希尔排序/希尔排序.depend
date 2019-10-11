@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570106240 source:f:\文件\专业课\c++\c++排序\希尔排序\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<time.h>
+	<fstream>
+	<functional>
+	<cstdlib>
+
